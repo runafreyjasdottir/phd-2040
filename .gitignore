@@ -1,0 +1,4 @@
+# PhD 2040 Knowledge Base
+__pycache__/
+*.pyc
+.DS_Store
